@@ -1,0 +1,76 @@
+{
+    "booklib": [
+        {
+            "id": "1",
+            "title":"El Club Dumas",
+            "autor":"Arturo Perez-Reverte",
+            "cover":"./img/el_club_dumas.jpg",
+            "year": "1993",
+            "summary":"¿Puede un libro ser investigado policialmente como si de un crimen se tratara, utilizando como pistas sus páginas, papel, grabados y marcas de impresión, en un apasionante recorrido de tres siglos? Lucas Corso, mercenario de la bibliofilia, cazador de libros por cuenta ajena, debe encontrar respuesta a esa pregunta cuando recibe un doble encargo de sus clientes: autentificar un manuscrito de Los tres mosqueteros y descifrar el enigma de un extraño libro, quemado en 1667 con el hombre que lo imprimió. La indagación arrastra a Corso y con él, irremediablemente al lector a una peligrosa búsqueda que lo llevara de los archivos del Santo Oficio a los libros condenados, de las polvorientas librerías de viejo a las más selectas bibliotecas de los coleccionistas internacionales."
+        },
+        {
+            "id": "2",
+            "title":"La piel del tambor",
+            "autor":"Arturo Perez-Reverte",
+            "cover":"./img/la_piel_del_tambor.jpg",
+            "year":"1995",
+            "summary":"Un pirata informático que se infiltra en el Vaticano. Una iglesia barroca, en Sevilla, que mata para defenderse. Tres pintorescos malvados que aspiran a mantener viva la copla española. Una bella aristócrata andaluza. Un apuesto sacerdote-agente especialista en asuntos sucios. Un banquero celoso y su secretario ludópata. Una septuagenaria que bebe coca-cola. La tarjeta postal de una mujer muerta un siglo atrás. Y el misterioso legado del capitán Xaloc, último corsario español, desaparecido frente a las costas de Cuba en 1898."
+        },
+        {
+            "id": "3",
+            "title":"Territorio comanche",
+            "autor":"Arturo Perez-Reverte",
+            "cover":"./img/territorio_comanche.jpg",
+            "year":"2001",
+            "summary":"Para un reportero en una guerra, territorio comanche es el lugar donde el instinto dice que pares el coche y des media vuelta& donde siempre parece a punto de anochecer y caminas pegado a las paredes, hacia los tiros que suenan a lo lejos, mientras escuchas el ruido de tus pasos sobre los cristales rotos.\nEl suelo de las guerras está siempre descubierto de cristales rotos. Territorio comanche es allí donde los oyes crujir bajo tus botas, y aunque no ves a nadie sabes que te están mirando."
+        },
+        {
+            "id": "4",
+            "title":"El Italiano",
+            "autor":"Arturo Perez-Reverte",
+            "cover":"./img/el_italiano.jpg",
+            "year":"2021",
+            "summary":"Nada traiciona, tanto tiempo después, la mujer que desde hace dos años vive sola junto al mar con un perro y unos libros. Qué otra cosa, decide, sería el impulso, o el deseo, de permanecer abrazada a ese hombre para siempre. Ignora qué habrá en su cabeza dentro de un par de horas, cuando la claridad del día la despeje del todo e ilumine con más crudeza su conciencia. Lo cierto es que en este momento, sin duda alguna, desearía morir si él muriera."
+        },
+        {
+            "id": "5",
+            "title":"El pendulo de Foucault",
+            "autor":"Umberto Eco",
+            "cover":"./img/el_pendulo_de_foucault.jpg",
+            "year":"1988",
+            "summary":"Cuando Internet es todavía un proyecto de futuro para los expertos y un sueño para los usuarios, tres intelectuales que trabajan en una editorial de Milán establecen contacto con autores interesasdos en las ciencias ocultas, las sociedades secretas y las conjuras cósmicas. Entre bromas y veras, y mezclando lo profesional con aspectos insólitos de sus vidas, estos hombres urden juntos un plan que dejará de ser un juego para convertirse en pesadilla. Después del éxito internacional de El nombre de la rosa, Umberto Eco quiso continuar explorando el mundo de la novela con esta obra, donde la intriga se une a un apasionante vieja hacia el mundo de los templarios."
+        },
+        {
+            "id": "6",
+            "title":"La isla del día de antes",
+            "autor":"Umberto Eco",
+            "cover":"./img/la_isla_del_dia_de_antes.jpg",
+            "year":"1994",
+            "summary":"En el verano de 1643 y en los mares del Sur, un joven piamontés, Roberto de la Grive, arriba como náufrago a una nave desierta. La nave está llena de animales desconocidos y de extrañas máquinas y artilugios, y ante ella, próxima e inalcanzable (no sólo, descubriremos después, en el espacio, sino también en el tiempo) una isla de ensueño. Roberto escribe cartas a la 'Señora'; a través de las cuales se adivina poco a poco su pasado: duelos, asedios, lances amorosos, alambicadas disputas de salón. Se trata, de hecho, de la lenta y traumática iniciación al mundo de la nueva ciencia, las razones de estado, las redes de espionaje de Mazarino y Richelieu, la guerra de los treinta años, en suma, a un cosmos en el que la tierra ha dejado de ser para muchos el centro del universo. En este 'Mar de la Inocencia' nada es inocente, y Roberto lo sabe desde el principio, porque ha llegado a estas Antípodas para resolver -sin personalmente desearlo- el misterio por el cual forcejean las nuevas potencias de la época: el secreto del Punto Fijo."
+        },
+        {
+            "id": "7",
+            "title":"Cien años de soledad",
+            "autor":"Gabriel García Márquez",
+            "cover":"./img/cien_años_de_soledad.jpg",
+            "year":"1982",
+            "summary":"Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo.' Con estas palabras empieza una novela legendaria, una de las aventuras literarias más fascinantes del siglo XX. La familia Buendía-Iguarán, con sus milagros, fantasías, obsesiones, tragedias, incestos, adulterios, rebeldías, descubrimientos y condenas, representa al mismo tiempo el mito y la historia, la tragedia y el amor del mundo entero."
+        },
+        {
+            "id": "8",
+            "title":"El amor en los tiempos del cólera",
+            "autor":"Gabriel García Márquez",
+            "cover":"./img/el_amor_en_tiempos_de_colera.jpg",
+            "year":"1985",
+            "summary":"La historia de amor entre Fermina Daza y Florentino Ariza, en el escenario de un pueblecito portuario del Caribe y a lo largo de más de sesenta años, podría parecer un melodrama de amantes contrariados que al final vencen por la gracia del tiempo y la fuerza de sus propios sentimientos, ya que García Márquez se complace en utilizar los más clásicos recursos de los folletines tradicionales. Pero este tiempo -por una vez sucesivo, y no circular-, este escenario y estos personajes son como una mezcla tropical de plantas y arcillas que la mano del maestro modela y fantasea a su placer, para al final ir a desembocar en los territorios del mito y la leyenda. Los zumos, olores y sabores del trópico alimentan una prosa alucinatoria que en esta ocasión llega al puerto oscilante del final feliz."
+        },
+        {
+            "id": "9",
+            "title":"Zen and the Art of Motorcycle Maintenance",
+            "autor":"Robert M. Pirsig",
+            "cover":"./img/zen_and_the_art_of_motorcycle_maintenance.jpg",
+            "year":"1974",
+            "summary":"One of the most important and influential books written in the past half-century, Robert M. Pirsig's Zen and the Art of Motorcycle Maintenance is a powerful, moving, and penetrating examination of how we live . . . and a breathtaking meditation on how to live better. Here is the book that transformed a generation: an unforgettable narration of a summer motorcycle trip across America's Northwest, undertaken by a father and his young son. A story of love and fear -- of growth, discovery, and acceptance -- that becomes a profound personal and philosophical odyssey into life's fundamental questions, this uniquely exhilarating modern classic is both touching and transcendent, resonant with the myriad confusions of existence and the small, essential triumphs that propel us forward."
+        }
+    ]
+}

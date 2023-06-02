@@ -1,0 +1,38 @@
+body {
+	display: flex;
+	min-height: 10vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.row-container {
+	display: flex;
+	grid-template-columns: 30% 70%
+}
+
+.item-image {
+width: 330px;
+height: auto;
+align-self: center;
+padding: 1em;
+}
+
+.shop-item-details {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+}
+
+.shop-item-title {
+	grid-column: 1/4;  
+}
+
+.shop-item-summary { 
+	grid-column: 1/4;
+	font-size:x-large;
+}
+
+.shop-item-price {
+	grid-column: 3/4;
+	align-self: end;
+}
